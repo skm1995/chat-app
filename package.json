@@ -4,7 +4,8 @@
   "description": "Windows commands:\r mongod.exe --dbpath=C:\\Users\\szymo\\Documents\\workspace\\mongodb-data",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "env-cmd": "^8.0.2",
